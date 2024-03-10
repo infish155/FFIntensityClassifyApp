@@ -1,0 +1,4 @@
+full
+medium
+strong
+weak
